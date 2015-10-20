@@ -1,0 +1,6 @@
+c:\users\dwolflcdev\documents\visual studio 2013\Projects\storedprocedure\storedprocedure\bin\Debug\storedprocedure.exe.config
+c:\users\dwolflcdev\documents\visual studio 2013\Projects\storedprocedure\storedprocedure\bin\Debug\storedprocedure.exe
+c:\users\dwolflcdev\documents\visual studio 2013\Projects\storedprocedure\storedprocedure\bin\Debug\storedprocedure.pdb
+c:\users\dwolflcdev\documents\visual studio 2013\Projects\storedprocedure\storedprocedure\obj\Debug\storedprocedure.csprojResolveAssemblyReference.cache
+c:\users\dwolflcdev\documents\visual studio 2013\Projects\storedprocedure\storedprocedure\obj\Debug\storedprocedure.exe
+c:\users\dwolflcdev\documents\visual studio 2013\Projects\storedprocedure\storedprocedure\obj\Debug\storedprocedure.pdb
